@@ -1,8 +1,8 @@
-# It's smart contract part for pumpfun
-This is repository for pump fun smart contract. As a smart contact part of Pump.fun, it involves add/remove virtual LP and create raydium pool. It's the fork of Pump.fun and have some addtional functionalities.
+## Pumpfun smart contract fork of pump.fun, implement all feature of pump fun
+As a pump fun smart contract, it forked pump.fun main functionalities.
+It's for to offer radical knowledge/understanding about pumpfun workflow, so to get whole codes for pumpfun fork, feel free to get in touch with me.
+Also have full backend & frontend codebase for pump.fun fork, you can get it.
 
-### If you face difficulty or issues when you use it, feel free to reach out
 
-### My contacts
-https://wa.me/13137423660
-https://t.me/DevCutup
+### Contacts
+https://t.me/CatLoverDev
